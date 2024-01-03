@@ -1,12 +1,12 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Avimanyu Rimal</h1>
-<h3 align="center">Hello! I'm Avimanyu Rimal, currently immersed in the world of Computer Science as I pursue a Bachelor's of Science (Hons.) degree at the University of Wolverhampton, majoring in Computing & Information Technology (IT). My academic journey not only delves into the core aspects of computer science but also extends to various domains, including web development, Android and iOS application development, machine learning, big data, artificial intelligence, and cloud computing. Hailing from the vibrant city of Kathmandu, Nepal, I am passionate about bridging technology with culture. Beyond the academic realm, I leverage my knowledge in creating user-friendly digital experiences through UI/UX design. Additionally, I express my insights and discoveries within the tech industry through blog writing. Excited about the vast possibilities in technology, I am eager to contribute my multifaceted skills to shape the future of computing.</h3>
+<h4 align="center">Hello! I'm Avimanyu Rimal, currently immersed in the world of Computer Science as I pursue a Bachelor's of Science (Hons.) degree at the University of Wolverhampton, majoring in Computing & Information Technology (IT). My academic journey not only delves into the core aspects of computer science but also extends to various domains, including web development, Android and iOS application development, machine learning, big data, artificial intelligence, and cloud computing. Hailing from the vibrant city of Kathmandu, Nepal, I am passionate about bridging technology with culture. Beyond the academic realm, I leverage my knowledge in creating user-friendly digital experiences through UI/UX design. Additionally, I express my insights and discoveries within the tech industry through blog writing. Excited about the vast possibilities in technology, I am eager to contribute my multifaceted skills to shape the future of computing.</h4>
 
 <img align="center" alt="Coding" width="400"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ) <p align="center"> <img
-    src="https://komarev.com/ghpvc/?username=avimanyurimal&label=Profile%20views&color=0e75b6&style=flat"
-    alt="avimanyurimal" /> </p>
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ) <p align="center"> <img
+src="https://komarev.com/ghpvc/?username=avimanyurimal&label=Profile%20views&color=0e75b6&style=flat"
+alt="avimanyurimal" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avimanyurimal&label=Profile%20views&color=0e75b6&style=flat" alt="avimanyurimal" /> </p>
 
