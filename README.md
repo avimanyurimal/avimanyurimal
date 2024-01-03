@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Avimanyu Rimal</h1>
 <h3 align="center">A passionate developer from Hello World!!</h3>
-<img align="center" alt="Coding" width="400"
+<img align="center" alt="Coding" width="4"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ) <p align="center"> <img
     src="https://komarev.com/ghpvc/?username=avimanyurimal&label=Profile%20views&color=0e75b6&style=flat"
     alt="avimanyurimal" /> </p>
