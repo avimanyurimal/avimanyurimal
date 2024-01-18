@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Mastering Flutter, Exploring Machine Learning, Delving into Big Data, Navigating the Cloud Computing realm.**
 - 💬 Ask me about **Any Programming Languages In My Toolkit**
 - 📫 How to reach me **rima.avimanyu@gmail.com**
-- 👨‍💻 All of my projects are available at **avimanyu.rimal.com.np**
+- 👨‍💻 All of my projects are available at **avimanyurimal.com.np**
 - 📝 I regularly write articles on **avimanyurimal.wordpress.com**
 - ⚡ Fun fact Passionate Developer From "Hello World"
 
